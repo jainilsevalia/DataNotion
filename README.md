@@ -51,7 +51,6 @@ npm start
 Data Notion is a role-based project with two user roles:
 
 1. **Manager:** Managers can create projects, assign annotators to the project, assign tasks to annotators, create tags for annotation, and view project statistics.
-   Annotator: Annotators can view tasks assigned to them, perform data annotation based on assigned tasks and tags.
 
 2. **Annotator:** Annotators can view tasks assigned to them, perform data annotation based on assigned tasks and tags.
 
